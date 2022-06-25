@@ -1,0 +1,26 @@
+{
+  "name": "asynchronism-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callbacks": "node src/callbacks/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidK1412/asynchronism-javascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "asynchronism"
+  ],
+  "author": "David Casallas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidK1412/asynchronism-javascript/issues"
+  },
+  "homepage": "https://github.com/DavidK1412/asynchronism-javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
